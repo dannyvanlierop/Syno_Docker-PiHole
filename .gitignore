@@ -1,0 +1,7 @@
+# Hide all Private folders
+/mounts/etc/pihole/*
+/mounts/etc/dnsmasq.d/*
+
+#END
+#!.gitignore
+git add image/syno_docker_pihole_v01
